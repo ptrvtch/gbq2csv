@@ -1,0 +1,1 @@
+SELECT event_name, event_timestamp FROM `firebase-public-project.analytics_153293282.events_20181003` LIMIT 1000
